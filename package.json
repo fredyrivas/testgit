@@ -1,0 +1,22 @@
+{
+  "name": "testgitproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredyrivas/testgit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fredyrivas/testgit/issues"
+  },
+  "homepage": "https://github.com/fredyrivas/testgit#readme",
+  "dependencies": {
+    "gsap": "^3.2.6"
+  }
+}
